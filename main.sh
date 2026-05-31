@@ -41,3 +41,4 @@ if [ -f "report.log.gpg" ]; then
 else
     echo "Sifreleme adiminda bir sorun olustu!"
 fi
+# Son Guncelleme:  1 Haz 2026 Pzt +03 00:04:27
