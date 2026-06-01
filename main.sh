@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # ========================================================
-# İsim SOYİSİM: Yusuf Mert [SOYADIN]
-# Öğrenci Numarası: [ÖĞRENCİ NUMARAN]
+# İsim SOYİSİM:Mert Zerdali
+# Öğrenci Numarası: [2320171076]
 # Sertifika 1 (Docker): [Buraya Docker Sertifika Linkini Yapıştır]
 # Sertifika 2 (Linux): [Buraya Linux Sertifika Linkini Yapıştır]
-# Sertifika 3 (Bash): [Buraya Bash Script Sertifika Linkini Yapıştır]
+# Sertifika 3 (Bash): [https://credsverse.com/credentials/235f04c0-813c-4f4a-8c76-a185cc1865de]
 # ========================================================
 
 # 1. Günlük Dosyasının Başlatılması ve ISO Zaman Damgası
